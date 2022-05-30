@@ -16,7 +16,6 @@ function App() {
               <div className='title'>
                 <h1>Login</h1>
               </div>
-              <></>
               <TextField
 		  		    	  id="email"
 		  		    	  label="Email *"
@@ -40,7 +39,7 @@ function App() {
               </div>
 
               <div className='submit'>
-                <Button type="submit" variant="contained" color="info">submit</Button>
+                <Button type="submit" variant="contained" color="info">SUBMIT</Button>
               </div>
           </form>
       </div>
